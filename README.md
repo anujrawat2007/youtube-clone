@@ -19,4 +19,4 @@ This is a front-end clone of the YouTube homepage, built to practice and showcas
 1. Clone this repository:
    `git clone https://github.com/anujrawat2007/youtube-clone`
 2. Open the folder in your code editor.
-3. Open the `index.html` file in your browser to view the project.
+3. Open the `youtube.html` file in your browser to view the project.
