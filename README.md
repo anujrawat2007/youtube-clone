@@ -13,7 +13,7 @@ This is a front-end clone of the YouTube homepage, built to practice and showcas
 * **CSS3:** For styling, layout, and animations.
 
 ## 📸 Screenshots
-![YouTube Clone Screenshot](youtube-clone.png)
+![YouTube Clone Screenshot](screenshots/youtube-clone.png)
 
 ## 💻 How to Run Locally
 1. Clone this repository:
