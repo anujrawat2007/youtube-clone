@@ -1,6 +1,6 @@
 # YouTube Clone
 
-This is a front-end clone of the YouTube homepage, built to practice and showcase my web development skills.
+This is a front-end clone of the YouTube homepage, built to practice.
 
 ## 🚀 Features
 * Responsive layout (Mobile friendly)
